@@ -1,0 +1,64 @@
+
+.carousel-inner{margin-bottom:50px;
+    margin-top: 100px;
+    height: 40rem; width: 43rem;
+    text-align: center}
+.carol{height: 40rem; width: 43rem;}    
+/*footer section*/
+#footer{padding: 3% 1%;
+    background-color: rgb(47, 49, 49);
+    text-align: center}
+i{padding-left: 5px;
+    color: rgb(191, 192, 192);
+    padding-right: 5px}
+.copy{color:rgb(191, 192, 192) }
+.third{text-align: center}
+.team{background-color: rgb(47,49,49);
+    height: 70px;
+    padding: 5px 10px;
+    margin-right: 0px}
+.row{padding-top: 50px;padding-bottom: 150px;text-align: center}
+.text{color: white}
+.background{opacity: 0.6;}
+.backgroundimage{position: relative;}
+.backtext{text-align: center;color: rgb(255, 255, 255);font-size: 30px;
+position:absolute;
+top: 290%;
+left: 50%;
+transform: translate(-50%, -50%);}
+      /* Style the search field */
+      form.example input[type=text] {
+        padding: 10px;
+        font-size: 17px;
+        border-radius: 20px;
+        border: 1px solid grey;
+        float: left;
+        width: 80%;
+        background: #f1f1f1;
+      }
+      
+      /* Style the submit button */
+      form.example button {
+        float: left;
+        width: 20%;
+        padding: 10px;
+        background: rgb(43, 43, 43);
+        color: white;
+        font-size: 17px;
+        border-radius: 70px;
+        border: 1px solid grey;
+        border-left: none; /* Prevent double borders */
+        cursor: pointer;
+      }
+      
+      form.example button:hover {
+        background: #656666;
+      }
+      
+      /* Clear floats */
+      form.example::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+      /* 168.969 */
